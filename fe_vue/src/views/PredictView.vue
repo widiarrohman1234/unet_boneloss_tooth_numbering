@@ -1,5 +1,15 @@
 <template>
   <div class="app-container">
+    <!-- <header class="navbar">
+      <div class="logo">
+        <img src="https://via.placeholder.com/40" alt="Logo" />
+      </div>
+      <nav class="nav-links">
+        <a href="#">Home</a>
+        <a href="#" class="active">Predict</a>
+        <a href="#">History</a>
+      </nav>
+    </header> -->
     <main class="content">
       <h2>Predict Bone Loss Severity and Tooth Numbering</h2>
 

@@ -21,6 +21,11 @@ const router = createRouter({
       name: 'predict',
       component: () => import('../views/PredictView.vue'),
     },
+      {
+        path: '/history',
+        name: 'history',
+        component: () => import('../views/HistoryView.vue'),
+      },
   ],
 })
 
