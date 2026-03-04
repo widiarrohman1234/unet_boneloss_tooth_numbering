@@ -1,8 +1,8 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link>
-    |
     <router-link to="/history">History</router-link>
+    <router-link to="/predict">Predict</router-link>
   </nav>
   <router-view />
 </template>
